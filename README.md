@@ -9,6 +9,6 @@ Some helpful scripts for fixing vicon data
 ## Usage
 1. Set the save path for the data you want to process
 2. Set up your settings in the Jupyter notebook
-3. Run the script
+3. Run through the notebook
 4. Your resulting data is plotted so you can view whether you got something you expected.
 5. You can choose to save the resulting data by pickeling it or saving a CSV.
